@@ -1,0 +1,20 @@
+[
+  {
+    "id": "citadelcult",
+    "is_store_open": true,
+    "default_currency": {
+      "code": "USD"
+    },
+    "currencies": [
+      {
+        "code": "USD"
+      },
+      {
+        "code": "EUR"
+      },
+      {
+        "code": "UAH"
+      }
+    ]
+  }
+]

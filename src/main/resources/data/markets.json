@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Ukraine",
+    "currency_code": "UAH",
+    "countries": ["UA"],
+    "payment_providers": ["manual"]
+  },
+  {
+    "name": "Europe",
+    "currency_code": "EUR",
+    "countries": ["DE", "FR", "IT", "PL"],
+    "payment_providers": ["manual"]
+  },
+  {
+    "name": "North America",
+    "currency_code": "USD",
+    "countries": ["US"],
+    "payment_providers": ["manual"]
+  }
+]

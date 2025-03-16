@@ -1,0 +1,54 @@
+spring:
+  datasource:
+    url: ${DATABASE_URL}
+    username: ${DATABASE_USERNAME}
+    password: ${DATABASE_PASSWORD}
+
+  jpa:
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.PostgreSQLDialect
+    hibernate:
+      ddl-auto: update
+
+  servlet:
+    multipart:
+      max-file-size: ${MAX_FILE_SIZE}
+      max-request-size: ${MAX_REQUEST_SIZE}
+
+cloud:
+  aws:
+    credentials:
+      accessKey: ${AWS_ACCESS_KEY}
+      secretKey: ${AWS_SECRET_KEY}
+    region:
+      static: ${AWS_REGION}
+    stack:
+      auto: false
+    bucket:
+      name: ${AWS_BUCKET_NAME}
+
+telegram:
+  bot:
+    token: ${TELEGRAM_BOT_TOKEN}
+  chat:
+    id: ${TELEGRAM_CHAT_ID}
+
+frontend:
+  url: ${FRONTEND_URL}
+
+backend:
+  url: ${BACKEND_URL}
+
+fondy:
+  merchantId: ${FONDY_MERCHANT_ID}
+  merchantPassword: ${FONDY_MERCHANT_PASSWORD}
+
+jwt:
+  secret-key: ${JWT_SECRET_KEY}
+  expiration: ${JWT_EXPIRATION}
+  cookie-name: ${JWT_COOKIE_NAME}
+
+facebook:
+  access-token: ${FACEBOOK_ACCESS_TOKEN}
+  pixel-id: ${FACEBOOK_PIXEL_ID}

@@ -1,0 +1,62 @@
+[
+  {
+    "name": "image1",
+    "alt": "image1",
+    "url": "https://citadelcult.s3.eu-central-1.amazonaws.com/1708772556670-reflect-t-shirt.jpg"
+  },
+  {
+    "name": "image2",
+    "alt": "image2",
+    "url": "https://citadelcult.s3.eu-central-1.amazonaws.com/1708772579049-reflect-t-shirt-1.jpg"
+  },
+  {
+    "name": "image3",
+    "alt": "image3",
+    "url": "https://citadelcult.s3.eu-central-1.amazonaws.com/1708772590404-reflect-t-shirt2.jpg"
+  },
+  {
+    "name": "image4",
+    "alt": "image4",
+    "url": "https://citadelcult.s3.eu-central-1.amazonaws.com/1708788231451-etina-cargo-pants.jpg"
+  },
+  {
+    "name": "image5",
+    "alt": "image5",
+    "url": "https://citadelcult.s3.eu-central-1.amazonaws.com/1708788258881-etina-cargo-pants-1.jpg"
+  },
+  {
+    "name": "image6",
+    "alt": "image6",
+    "url": "https://citadelcult.s3.eu-central-1.amazonaws.com/1708788284581-etina-cargo-pants-2.jpg"
+  },
+  {
+    "name": "image7",
+    "alt": "image7",
+    "url": "https://citadelcult.s3.eu-central-1.amazonaws.com/1708788315059-etina-cargo-pants3.jpg"
+  },
+  {
+    "name": "image7",
+    "alt": "image7",
+    "url": "https://citadelcult.s3.eu-central-1.amazonaws.com/1708788329868-etina-cargo-pants4.jpg"
+  },
+  {
+    "name": "image7",
+    "alt": "image7",
+    "url": "https://citadelcult.s3.eu-central-1.amazonaws.com/1708788997359-atom-pullover-black.jpg"
+  },
+  {
+    "name": "image7",
+    "alt": "image7",
+    "url": "https://citadelcult.s3.eu-central-1.amazonaws.com/1708789017185-atom-pullover-black-1.jpg"
+  },
+  {
+    "name": "image7",
+    "alt": "image7",
+    "url": "https://citadelcult.s3.eu-central-1.amazonaws.com/1708789560010-atom-pullover-gray.jpg"
+  },
+  {
+    "name": "image7",
+    "alt": "image7",
+    "url": "https://citadelcult.s3.eu-central-1.amazonaws.com/1708789578242-atom-pullover-gray-1.jpg"
+  }
+]
