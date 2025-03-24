@@ -56,7 +56,7 @@ FACEBOOK_PIXEL_ID=your_pixel_id
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/kolyageshko/citadelcult.git
+   git clone https://github.com/kolyageshko/ecommerce-platform.git
    cd citadelcult
    ```
 2. Configure environment variables.
